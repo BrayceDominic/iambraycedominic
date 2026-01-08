@@ -1,36 +1,157 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Brayce Dominic — Developer Portfolio
 
-## Getting Started
+This repository contains the source code for my **personal developer portfolio**, built with **Next.js**.
+The portfolio showcases my **skills, projects, experience, and contact information** in a clean, modern, and responsive design.
 
-First, run the development server:
+ **Live Website:**
+ [https://braycedominic.netlify.app](https://braycedominic.netlify.app)
+
+---
+
+##  About the Project
+
+This portfolio is designed to:
+
+* Present my **software engineering profile** professionally
+* Showcase **real-world projects** and technologies I work with
+* Provide an easy way for recruiters, clients, and collaborators to **reach me**
+* Demonstrate modern frontend best practices using **Next.js**
+
+It is optimized for:
+
+* Performance
+* SEO
+* Mobile & desktop responsiveness
+* Clean UI/UX
+
+---
+
+## Tech Stack
+
+* **Framework:** Next.js (App Router)
+* **Language:** TypeScript
+* **Styling:** CSS / Tailwind CSS (if applicable)
+* **Fonts:** Next.js Font Optimization (Geist)
+* **Deployment:** Netlify
+* **Version Control:** Git & GitHub
+
+---
+
+## Features
+
+* Responsive and modern UI
+* Project showcase section
+* Skills and technologies overview
+* About me section
+* Contact information & social links
+* Fast loading and optimized performance
+
+---
+
+## Project Structure
+
+```text
+app/
+ ├── page.tsx        # Main landing page
+ ├── layout.tsx      # Root layout
+ ├── components/     # Reusable UI components
+ ├── styles/         # Global and component styles
+public/
+ ├── images/         # Portfolio images and assets
+```
+
+---
+
+## Getting Started (Local Development)
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+
+Navigate into the project folder:
+
+```bash
+cd your-repo-name
+```
+
+Install dependencies:
+
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open your browser and visit:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The page will auto-update as you make changes.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Customization
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+To update the portfolio content:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+* Edit `app/page.tsx` for main sections
+* Replace images inside the `public/` folder
+* Update metadata for SEO inside `layout.tsx`
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Deployment
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is deployed on **Netlify**.
+
+You can also deploy it on:
+
+* **Vercel** (recommended for Next.js)
+* **Netlify**
+* **Any Node.js-compatible hosting**
+
+Build command:
+
+```bash
+npm run build
+```
+
+---
+
+## Contact
+
+If you’d like to collaborate, hire me, or discuss a project:
+
+* 🌍 Portfolio: [https://braycedominic.netlify.app](https://braycedominic.netlify.app)
+* 💼 GitHub: [https://github.com/your-username](https://github.com/your-username)
+* ✉️ Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+##  License
+
+This project is open-source and available for learning and inspiration.
+You are free to fork it, but **please do not copy content directly without permission**.
+
+---
+
+If you want, I can also:
+
+* Make it **more corporate / recruiter-focused**
+* Make it **more creative / startup-style**
+* Align it exactly with **sections on your website**
+* Add **badges, screenshots, or animations preview**
+
+Just tell me 👍
