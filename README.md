@@ -134,9 +134,9 @@ npm run build
 
 If you’d like to collaborate, hire me, or discuss a project:
 
-* 🌍 Portfolio: [https://braycedominic.netlify.app](https://braycedominic.netlify.app)
-* 💼 GitHub: [https://github.com/your-username](https://github.com/your-username)
-* ✉️ Email: [your-email@example.com](mailto:your-email@example.com)
+*  Portfolio: [https://braycedominic.netlify.app](https://braycedominic.netlify.app)
+*  GitHub: [https://github.com/BrayceDominic](https://github.com/BrayceDominic)
+*  Email: [braycedominic11@gmail.com](mailto:braycedominic11@gmail.com)
 
 ---
 
@@ -146,12 +146,3 @@ This project is open-source and available for learning and inspiration.
 You are free to fork it, but **please do not copy content directly without permission**.
 
 ---
-
-If you want, I can also:
-
-* Make it **more corporate / recruiter-focused**
-* Make it **more creative / startup-style**
-* Align it exactly with **sections on your website**
-* Add **badges, screenshots, or animations preview**
-
-Just tell me 👍
